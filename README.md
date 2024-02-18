@@ -1,2 +1,2 @@
 # chomp
-play a game of chomp
+Play a game of chomp
